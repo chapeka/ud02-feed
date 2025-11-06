@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Novedades del sitio web de la UD02 – davialvarez</title>
+    <link>https://davialvarez.w3spaces.com/</link>
+    <description>Últimas actualizaciones publicadas en mi web del módulo de Lenguajes de Marcas</description>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 06 Feb 2025 12:00:00 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Feb 2025 12:00:00 +0100</pubDate>
+
+    <item>
+      <title>Publicada la primera novedad</title>
+      <link>https://davialvarez.w3spaces.com/novedad1.html</link>
+      <guid>https://davialvarez.w3spaces.com/novedad1.html</guid>
+      <description>Se ha añadido la primera página de novedades a mi sitio web.</description>
+      <pubDate>Thu, 06 Feb 2025 12:05:00 +0100</pubDate>
+    </item>
+
+    <item>
+      <title>Publicada la segunda novedad</title>
+      <link>https://davialvarez.w3spaces.com/novedad2.html</link>
+      <guid>https://davialvarez.w3spaces.com/novedad2.html</guid>
+      <description>Se ha añadido la segunda página de novedades a mi sitio web.</description>
+      <pubDate>Thu, 06 Feb 2025 12:10:00 +0100</pubDate>
+    </item>
+
+  </channel>
+</rss>
